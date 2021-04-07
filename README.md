@@ -1,5 +1,4 @@
 # Timeseries-ofaBusinessProcess
 
 
-
-{% Anonomized_process.html %}
+ {% include_relative Anonomized_process.html}
