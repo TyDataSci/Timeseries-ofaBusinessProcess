@@ -4,7 +4,6 @@
 - <a href='https://github.com/TyDataSci/Timeseries-ofaBusinessProcess'>Click Here to Return to GitHub</a>
 - <a href='https://github.com/TyDataSci/Timeseries-ofaBusinessProcess/blob/main/processTimeseries_anon.ipynb'>Click Here View the Python Notebook</a>
 
-https://github.com/TyDataSci/Timeseries-ofaBusinessProcess/blob/main/processTimeseries_anon.ipynb
 
 ### Using Python Plotly for analysis
 
