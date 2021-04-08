@@ -4,7 +4,7 @@
 - <a href='https://github.com/TyDataSci/Timeseries-ofaBusinessProcess/blob/main/processTimeseries_anon.ipynb'>Click Here View the Python Notebook</a>
 
 
-### Using Python Plotly for analysis
+### Using Python Plotly for Time Series Analysis
 ###### All data has been anonomized for demonstration
 
 # Business Process 2
