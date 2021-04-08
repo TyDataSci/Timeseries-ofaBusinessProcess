@@ -1,5 +1,8 @@
 # Time Series of a Business Process
+
 <a href='https://tydatasci.github.io/Timeseries-ofaBusinessProcess/'>Click Here to View the Plots</a>
+<a href='https://github.com/TyDataSci/Timeseries-ofaBusinessProcess'>Click Here to Return to GitHub</a>
+
 ### Using Python Plotly for analysis
 
 # Business Process 2
